@@ -1,0 +1,23 @@
+{
+  "name": "employee-of-the-month",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Designs a recurring recognition program and organizes nominations without selecting a winner. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "employee-of-the-month",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Designs a recurring recognition program and organizes nominations without selecting a winner. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "employee-recognition",
+        "nomination-review"
+      ]
+    }
+  ]
+}

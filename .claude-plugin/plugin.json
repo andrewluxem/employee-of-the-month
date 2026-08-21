@@ -1,0 +1,17 @@
+{
+  "name": "employee-of-the-month",
+  "version": "1.0.0",
+  "description": "Designs a recurring recognition program and organizes nominations without selecting a winner. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/employee-of-the-month",
+  "repository": "https://github.com/andrewluxem/employee-of-the-month",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "employee-recognition",
+    "nomination-review"
+  ]
+}
